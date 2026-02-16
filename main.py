@@ -1,5 +1,22 @@
-# Updated content of main.py
+# Dashboard
 
-# This file is focused on the Chat AI centered dashboard, smooth glitch effects, and cleaned interface.
+## Chat Mode
 
-# Your code logic goes here...
+Description of Chat Mode features and usage.
+
+## Hacking Toolkit
+
+### Encryption
+- Tools and methods for encryption.
+
+### OSINT
+- Tools and techniques for Open Source Intelligence.
+
+### Social Media Finder
+- Tools for finding social media accounts.
+
+### Geolocation Tracking
+- Tools for tracking geolocations.
+
+### Spyware Tools
+- Tools and methods related to spyware.
